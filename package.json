@@ -1,0 +1,35 @@
+{
+  "name": "project-cube",
+  "version": "1.0.0",
+  "description": "Cube Project inspired by populair game from the 1970s",
+  "main": "app.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.163.0",
+    "tween.js": "^16.6.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "react-scripts": "^5.0.1",
+    "typescript": "^5.4.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
